@@ -1,4 +1,4 @@
-# Mercuryo iOS SDK
+# Mercuryo iOS SDK Framework
 ![](https://raw.githubusercontent.com/mercuryoio/iOS-SDK-Framework/main/images/logo.png)
 
 Mercuryo is a Multicurrency Crypto Wallet allowing users to buy, sell, store and pay with cryptocurrency whenever they want. Besides client-facing web and mobile apps or widgets Mercuryo provides the platform for developers to create their own services on top of our API. This SDK is created to ease the process of integration of top-notch crypto experince to your mobile applications.
